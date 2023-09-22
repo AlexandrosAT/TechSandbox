@@ -1,0 +1,22 @@
+{
+  "name": "techsandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrosAT/TechSandbox.git"
+  },
+  "author": "AAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrosAT/TechSandbox/issues"
+  },
+  "homepage": "https://github.com/AlexandrosAT/TechSandbox#readme",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
